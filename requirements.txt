@@ -3,4 +3,4 @@ nltk
 pillow
 pandas
 pyspellchecker
-pytesseract
+pytesseract==0.3.7
