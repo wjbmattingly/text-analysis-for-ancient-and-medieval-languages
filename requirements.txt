@@ -1,4 +1,6 @@
 jupyter-offlinenotebook
+nltk
 pillow
+pandas
 pyspellchecker
 pytesseract
