@@ -4,3 +4,4 @@ pillow
 pandas
 pyspellchecker
 pytesseract==0.3.7
+opencv-python
